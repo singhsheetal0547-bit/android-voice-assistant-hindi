@@ -1,0 +1,17 @@
+# Backend
+backend/node_modules/
+backend/.env
+backend/package-lock.json
+
+# Android
+android-app/.gradle/
+android-app/.idea/
+android-app/build/
+android-app/app/build/
+android-app/local.properties
+android-app/*.iml
+android-app/.DS_Store
+
+# General
+*.log
+.DS_Store
